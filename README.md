@@ -1,4 +1,4 @@
-# Week 2: Python & SQL for Data Analysis
+# Phase 2: Relational Data Engineering, SQL Analytics & Python Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -7,7 +7,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-388E3C?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-Comprehensive completion of **Week 2: Python & SQL for Data Analysis** from the Data Analyst Course. This repository houses complete solutions for the Python Practice Assignment, SQL relational queries, multi-table joins, CASE conditional logic, and database query exports.
+Comprehensive completion of **Phase 2: Relational Data Engineering, SQL Analytics & Python Pipeline** from the Data Analyst Course. This repository houses complete solutions for the Python Exploratory Data Analysis, SQL relational queries, multi-table joins, CASE conditional logic, and database query exports.
 
 ---
 
@@ -176,6 +176,6 @@ python sql_analysis/run_sql_analysis.py
 ---
 
 ## 👨‍💻 Course Information
-- **Course**: Data Analyst Course — Week 2: Python & SQL for Data Analysis
+- **Course**: Data Analyst Course — Phase 2: Relational Data Engineering, SQL Analytics & Python Pipeline
 - **Author**: Durgesh ([@durgesh261](https://github.com/durgesh261))
 - **Primary Datasets**: Awesome Chocolates Dataset (`awesome-chocolates-data.sql`, `chocolate_sales.csv`)
